@@ -149,7 +149,8 @@ export default function BouncyCastleWebsite() {
                   Tradicionalni dizajn s tornjevima i zastavicama. Idealan za rođendane djece od 3-12 godina.
                 </CardDescription>
                 <div className="flex justify-between items-center">
-                  <span className="text-2xl font-bold text-red-500">50€/dan/dan</span>
+                  <span className="text-2xl font-bold text-red-500">50€/dan
+                  </span>
                   <Badge variant="secondary">Do 8 djece</Badge>
                 </div>
               </CardContent>
