@@ -149,7 +149,7 @@ export default function BouncyCastleWebsite() {
                   Tradicionalni dizajn s tornjevima i zastavicama. Idealan za rođendane djece od 3-12 godina.
                 </CardDescription>
                 <div className="flex justify-between items-center">
-                  <span className="text-2xl font-bold text-red-500">300 kn/dan</span>
+                  <span className="text-2xl font-bold text-red-500">50€/dan/dan</span>
                   <Badge variant="secondary">Do 8 djece</Badge>
                 </div>
               </CardContent>
@@ -171,7 +171,7 @@ export default function BouncyCastleWebsite() {
                   Kombinacija skakanja i klizanja! Dodatna zabava s velikim toboganom.
                 </CardDescription>
                 <div className="flex justify-between items-center">
-                  <span className="text-2xl font-bold text-red-500">450 kn/dan</span>
+                  <span className="text-2xl font-bold text-red-500">50€/dan</span>
                   <Badge variant="secondary">Do 12 djece</Badge>
                 </div>
               </CardContent>
@@ -193,7 +193,7 @@ export default function BouncyCastleWebsite() {
                   Veliki kompleks s preprekama, tunelima i toboganima za stariju djecu.
                 </CardDescription>
                 <div className="flex justify-between items-center">
-                  <span className="text-2xl font-bold text-red-500">600 kn/dan</span>
+                  <span className="text-2xl font-bold text-red-500">50€/dan</span>
                   <Badge variant="secondary">Do 15 djece</Badge>
                 </div>
               </CardContent>
@@ -215,7 +215,7 @@ export default function BouncyCastleWebsite() {
                   Savršen za manje prostore i mlađu djecu. Siguran i zabavan.
                 </CardDescription>
                 <div className="flex justify-between items-center">
-                  <span className="text-2xl font-bold text-red-500">200 kn/dan</span>
+                  <span className="text-2xl font-bold text-red-500">50€/dan</span>
                   <Badge variant="secondary">Do 6 djece</Badge>
                 </div>
               </CardContent>
@@ -237,7 +237,7 @@ export default function BouncyCastleWebsite() {
                   Luksuzni dizajn s dodatnim detaljima. Idealan za posebne prilike.
                 </CardDescription>
                 <div className="flex justify-between items-center">
-                  <span className="text-2xl font-bold text-red-500">500 kn/dan</span>
+                  <span className="text-2xl font-bold text-red-500">50€/dan</span>
                   <Badge variant="secondary">Do 10 djece</Badge>
                 </div>
               </CardContent>
@@ -259,7 +259,7 @@ export default function BouncyCastleWebsite() {
                   Bajkoviti dizajn s posebnim efektima. Omiljen kod djevojčica.
                 </CardDescription>
                 <div className="flex justify-between items-center">
-                  <span className="text-2xl font-bold text-red-500">400 kn/dan</span>
+                  <span className="text-2xl font-bold text-red-500">50€/dan</span>
                   <Badge variant="secondary">Do 8 djece</Badge>
                 </div>
               </CardContent>
