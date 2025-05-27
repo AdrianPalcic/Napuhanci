@@ -68,8 +68,7 @@ export default function BouncyCastleWebsite() {
                   <span className="text-blue-900"> nezaboravnom!</span>
                 </h1>
                 <p className="text-xl text-gray-600 leading-relaxed">
-                  Profesionalni najam napuhanih dvoraca za rođendane, vjenčanja, korporativne događaje i sve posebne
-                  prilike. Sigurnost, zabava i nezaboravni trenuci garantirani!
+                  Profesionalni najam napuhanih dvoraca za rođendane i sve ostale prigode. Sigurnost, zabava i nezaboravni trenuci garantirani!
                 </p>
               </div>
               <div className="flex flex-col sm:flex-row gap-4">
